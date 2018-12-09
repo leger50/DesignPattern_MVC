@@ -19,7 +19,7 @@ Vidéos utiles pour le pattern MVC :
 
 Parler des patterns d'architecture car différents des designs patterns classiques : (création, structure, comportemental)
 
-Les amis du pattern :
+Les amis du pattern : http://griffon-framework.org/tutorials/5_mvc_patterns.html
 - Model View Presenter : 
 https://java-design-patterns.com/patterns/model-view-presenter/
 
