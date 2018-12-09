@@ -12,6 +12,10 @@ Lien utiles pour le pattern MVC :
 - https://medium.freecodecamp.org/simplified-explanation-to-mvc-5d307796df30
 - https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013
 - https://java-design-patterns.com/patterns/model-view-controller/
+- https://openclassrooms.com/fr/courses/26832-apprenez-a-programmer-en-java/25552-mieux-structurer-son-code-le-pattern-mvc
+
+Vidéos utiles pour le pattern MVC :
+- https://www.youtube.com/watch?v=dTVVa2gfht8
 
 Parler des patterns d'architecture car différents des designs patterns classiques : (création, structure, comportemental)
 
