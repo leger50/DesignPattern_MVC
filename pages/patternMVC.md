@@ -1,7 +1,7 @@
 # Exemples d'implémentation
 
 ```java runnable
-public class ModelView extends JFrame{
+class ModelView extends JFrame{
 	
 	public ModelView() {
 		
