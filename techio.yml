@@ -1,4 +1,6 @@
-title: Simple Java Template
+title: Design Pattern MVC
 plan:
-- title: Java Snippet
-  statement: statement.md
+- title: Introduction
+  statement: pages/introduction.md
+- title: Le Pattern MVC
+  statement: pages/patternMVC.md
