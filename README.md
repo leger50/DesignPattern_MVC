@@ -7,6 +7,7 @@ Principe SOLID du pattern
 - D'autres à trouver...
 
 Lien utiles pour le pattern MVC :
+- http://lacl.fr/tan/devpro/lifl/tp3mvc.pdf
 - https://baptiste-wicht.developpez.com/tutoriels/conception/mvc/#LI
 - https://www.tutorialspoint.com/design_pattern/mvc_pattern.htm
 - https://medium.freecodecamp.org/simplified-explanation-to-mvc-5d307796df30
