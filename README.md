@@ -1,8 +1,8 @@
 # PatternMVC
 
-Répertoire contenant toutes nos recherches concernant le Pattern MVC.
-Le PDF de la présentation : 
-Lien vers le site du QCM : https://qcm-mvc.netlify.com/
+Répertoire contenant toutes nos recherches concernant le Pattern MVC.  
+Le PDF de la présentation :   
+Lien vers le site du QCM : https://qcm-mvc.netlify.com/  
 
 Les sources : 
 architectural pattern
