@@ -4,14 +4,7 @@ Répertoire contenant toutes nos recherches concernant le Pattern MVC.
 Le PDF de la présentation :   
 Lien vers le site du QCM : https://qcm-mvc.netlify.com/  
 
-Les sources : 
-architectural pattern
-
-Principe SOLID du pattern
-- Single responsability
-- D'autres à trouver...
-
-Lien utiles pour le pattern MVC :
+## Liens utiles pour le pattern MVC :
 - http://lacl.fr/tan/devpro/lifl/tp3mvc.pdf
 - https://baptiste-wicht.developpez.com/tutoriels/conception/mvc/#LI
 - https://www.tutorialspoint.com/design_pattern/mvc_pattern.htm
@@ -23,13 +16,12 @@ Lien utiles pour le pattern MVC :
 Vidéos utiles pour le pattern MVC :
 - https://www.youtube.com/watch?v=dTVVa2gfht8
 
-Parler des patterns d'architecture car différents des designs patterns classiques : (création, structure, comportemental)
+## Liens utiles pour le pattern MVP :
 
-Les amis du pattern : http://griffon-framework.org/tutorials/5_mvc_patterns.html
-- Model View Presenter : 
-https://java-design-patterns.com/patterns/model-view-presenter/
+- https://java-design-patterns.com/patterns/model-view-presenter/
 
-- Model View ViewModel :
-https://www.dotnetdojo.com/mvvm/
-https://www.supinfo.com/articles/single/3419-pattern-mvvm
-https://docs.microsoft.com/fr-fr/xamarin/xamarin-forms/enterprise-application-patterns/mvvm
+## Liens utiles pour le pattern MVVM :
+
+- https://www.dotnetdojo.com/mvvm/
+- https://www.supinfo.com/articles/single/3419-pattern-mvvm
+- https://docs.microsoft.com/fr-fr/xamarin/xamarin-forms/enterprise-application-patterns/mvvm
