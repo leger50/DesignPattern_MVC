@@ -10,7 +10,7 @@ public class TelevisionController {
 		this.model = model;
 	}
 
-	public void augmenterVolume() {
+	public void monterVolume() {
 		model.monterLeVolume();
 	}
 

@@ -8,8 +8,8 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
-import Presenter.Presenter;
-import Presenter.TelevisionPresenter;
+import presenter.Presenter;
+import presenter.TelevisionPresenter;
 
 @SuppressWarnings("serial")
 public class TelevisionView extends JFrame implements Presenter,ActionListener{
@@ -24,7 +24,7 @@ public class TelevisionView extends JFrame implements Presenter,ActionListener{
 	public TelevisionView() {
 		
 		//Affichage de la fenêtre
-		this.setTitle("Télévision");
+		this.setTitle("Télévision - Pattern MVP");
 		this.setSize(300, 100);
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
@@ -39,8 +39,10 @@ public class TelevisionView extends JFrame implements Presenter,ActionListener{
 		jp_television.add(this.jl_volumeTelevision);
 		jp_television.add(this.jb_monterVolume);
 		jp_television.add(this.jb_baisserVolume);
+		
 		jb_monterVolume.addActionListener(this);
 		jb_baisserVolume.addActionListener(this);
+		
 		this.add(jp_television);
 		
 		this.setVisible(true);
@@ -50,20 +52,20 @@ public class TelevisionView extends JFrame implements Presenter,ActionListener{
 		this.jl_volumeTelevision.setText(Integer.toString(volume));
 	}
 	
-
 	@Override
 	public void setPresenter(TelevisionPresenter presenter) {
 		this.presenter=presenter;
 		
 	}
 	
-
 	@Override
 	public void actionPerformed(ActionEvent e) {
-		if(e.getSource()==jb_monterVolume) {
+		
+		if(e.getSource() == jb_monterVolume) {
 			presenter.monterVolume();
 		}
-		if(e.getSource()==jb_baisserVolume) {
+		
+		if(e.getSource() == jb_baisserVolume) {
 			presenter.baisserVolume();
 		}
 		

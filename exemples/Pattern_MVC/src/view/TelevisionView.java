@@ -30,8 +30,7 @@ public class TelevisionView implements Observer {
 		this.controller = controller;
 
 		// Affichage de la fenêtre
-		this.jf_television = new JFrame("Télévision");
-		this.jf_television.setTitle("Télévision");
+		this.jf_television = new JFrame("Télévision - Pattern MVC");
 		this.jf_television.setSize(300, 100);
 		this.jf_television.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
@@ -69,7 +68,7 @@ public class TelevisionView implements Observer {
 
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				controller.augmenterVolume();
+				controller.monterVolume();
 
 			}
 		});
