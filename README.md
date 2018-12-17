@@ -1,8 +1,9 @@
 # PatternMVC
 
 Répertoire contenant toutes nos recherches concernant le Pattern MVC.  
-Le PDF de la présentation :   
-Lien vers le site du QCM : https://qcm-mvc.netlify.com/  
+Le PDF de la présentation :  [PatternMVC] (presentation/PatternMVC.pdf)
+Lien vers le site du QCM : [Quizz Pattern MVC] (https://qcm-mvc.netlify.com/)  
+Nos Exemples : [Pattern MVC / MVP] (exemples/)
 
 ## Liens utiles pour le pattern MVC :
 - http://lacl.fr/tan/devpro/lifl/tp3mvc.pdf
